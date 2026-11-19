@@ -1,0 +1,10 @@
+<!-- SIMULATED TRAINING SCREENSHOT: fictional UI and output; not captured from a real tool or assessment. -->
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="720" viewBox="0 0 1200 720" role="img" aria-label="Pattern search">
+<rect width="1200" height="720" fill="#0d1117"/><rect width="1200" height="54" fill="#161b22"/>
+<circle cx="28" cy="27" r="7" fill="#ff6b6b"/><circle cx="52" cy="27" r="7" fill="#ffd166"/><circle cx="76" cy="27" r="7" fill="#06d6a0"/>
+<text x="105" y="34" fill="#c9d1d9" font-family="Arial,sans-serif" font-size="18">SECURE CODE REVIEW LAB — SIMULATED</text>
+<text x="48" y="112" fill="#4f8bd6" font-family="Arial,sans-serif" font-size="30" font-weight="bold">Pattern search</text>
+<text x="48" y="151" fill="#8b949e" font-family="Arial,sans-serif" font-size="18">Illustrative manual search in a local fixture</text>
+<rect x="48" y="190" width="1104" height="440" rx="12" fill="#111820" stroke="#30363d"/>
+<text x="82" y="245" fill="#79c0ff" font-family="monospace" font-size="20">$ grep -RInE 'eval|exec|innerHTML' samples/</text><text x="82" y="293" fill="#c9d1d9" font-family="monospace" font-size="20">samples/handler.js:18: target.innerHTML = value</text><text x="82" y="341" fill="#c9d1d9" font-family="monospace" font-size="20">Candidate found — trace the source</text><text x="82" y="389" fill="#8b949e" font-family="monospace" font-size="20">Manual review required; match is not proof</text>
+<text x="48" y="680" fill="#8b949e" font-family="Arial,sans-serif" font-size="16">FICTIONAL TRAINING DATA • NOT REAL SCAN EVIDENCE</text></svg>
